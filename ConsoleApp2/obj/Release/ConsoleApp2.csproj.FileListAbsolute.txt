@@ -1,0 +1,5 @@
+c:\users\aleja_000\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+c:\users\aleja_000\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+c:\users\aleja_000\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csprojResolveAssemblyReference.cache
+c:\users\aleja_000\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+c:\users\aleja_000\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
